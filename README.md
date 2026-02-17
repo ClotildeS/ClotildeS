@@ -50,18 +50,6 @@ I like pipelines that flow and models that make sense.    |     Writing is freed
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClotildeS&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ClotildeS&theme=rose-pine&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   I am continuously exploring new opportunities. Please don’t hesitate to reach out !!!
 </p>
