@@ -1,10 +1,18 @@
 <!-- Soft Pink Corporate Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F6C1D1&height=220&section=header&text=Clotilde%20S.&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F6C1D1&height=220&section=header&text=Sokhna%20G.&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
+<h3 align="center">Data Engineer • Data Systems & Architecture • Cloud Curious ☁️</h3>
 
-<h1 align="center">Data Engineer in the making ✨</h1>
-<h3 align="center">MSc Student • Data Systems • Pipelines • Cloud Curious ☁️</h3>
+---
+<p align="center">
+  <a href="https://www.linkedin.com/in/ndeye-sokhna-gaye/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF9FC3?style=for-the-badge&logo=linkedin&logoColor=000000" />
+  </a>
+  <a href="mailto:ndeyesgayes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFC1D6?style=for-the-badge&logo=gmail&logoColor=000000" />
+  </a>
+</p>
 
 ---
 
@@ -17,10 +25,8 @@ Data Engineer (in progress).                              |     I also write.
 I like pipelines that flow and models that make sense.    |     Writing is freedom. 
                                                           |
 
-                                                 I enjoy both.
+                                                     I enjoy both.
 ```
-
-
 
 ---
 
@@ -56,17 +62,6 @@ I like pipelines that flow and models that make sense.    |     Writing is freed
 
 ---
 
-## 💌 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ndeye-sokhna-gaye/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF9FC3?style=for-the-badge&logo=linkedin&logoColor=000000" />
-  </a>
-  <a href="mailto:ndeyesgayes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFC1D6?style=for-the-badge&logo=gmail&logoColor=000000" />
-  </a>
-</p>
-
 <p align="center">
-  <sub>✨ turning data chaos into structured beauty ✨</sub>
+  I am continuously exploring new opportunities. Please don’t hesitate to reach out !!!
 </p>
