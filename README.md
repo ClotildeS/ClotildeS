@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- Soft Pink Corporate Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F6C1D1&height=220&section=header&text=Clotilde%20S.&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**ClotildeS/ClotildeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Data Engineer in the making ✨</h1>
+<h3 align="center">MSc Student • Data Systems • Pipelines • Cloud Curious ☁️</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me ✨
+
+```text
+Data Engineer (in progress).                              |     I also write.
+ MSc student building structured, reliable systems.       |  
+                                                          |     Data is structure.
+I like pipelines that flow and models that make sense.    |     Writing is freedom. 
+                                                          |
+
+                                                 I enjoy both.
+```
+
+
+
+---
+
+## 🌸 Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFC1D6?style=for-the-badge&logo=python&logoColor=000000" />
+  <img src="https://img.shields.io/badge/SQL-FF9FC3?style=for-the-badge&logo=postgresql&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Airflow-FFD1E2?style=for-the-badge&logo=apacheairflow&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Spark-FFB3D1?style=for-the-badge&logo=apachespark&logoColor=000000" />
+  <img src="https://img.shields.io/badge/AWS-FFE0EC?style=for-the-badge&logo=amazonaws&logoColor=000000" />
+</p>
+
+---
+
+## ✨ Featured
+
+- 💼 **Data pipelines** — ETL/ELT, incremental loads, scheduling  
+- 🧠 **Data modeling** — clean schemas, documentation, consistency  
+- 🔍 **Quality & observability** — tests, monitoring, lineage (learning & applying)
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClotildeS&show_icons=true&theme=rose_pine&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ClotildeS&theme=rose-pine&hide_border=true" />
+</p>
+
+---
+
+## 💌 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ndeye-sokhna-gaye/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF9FC3?style=for-the-badge&logo=linkedin&logoColor=000000" />
+  </a>
+  <a href="mailto:ndeyesgayes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFC1D6?style=for-the-badge&logo=gmail&logoColor=000000" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>✨ turning data chaos into structured beauty ✨</sub>
+</p>
